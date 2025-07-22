@@ -1,0 +1,12 @@
+flask
+streamlit
+PyPDF2
+python-docx
+python-pptx
+pandas
+pinecone
+huggingface_hub
+sentence-transformers 
+faiss-cpu
+dotenv
+openai
